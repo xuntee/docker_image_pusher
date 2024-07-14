@@ -1,7 +1,7 @@
 nginx:1.27.0
 redis:latest
 mysql:8.0
-minio:latest
+minio/minio:latest
 openjdk:8-jdk-alpine
 linuxserver/libreoffice
 
