@@ -4,6 +4,7 @@ mysql:8.0
 minio/minio:latest
 openjdk:8-jdk-alpine
 linuxserver/libreoffice
+libreoffice/online:master-nogui
 
 #
 #支持私库
