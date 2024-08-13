@@ -1,12 +1,13 @@
-nginx:1.27.0
-redis:latest
-mysql:8.0
-minio/minio:latest
-openjdk:8-jdk-alpine
-linuxserver/libreoffice
-libreoffice/online:master-nogui
-eclipse-temurin:8u392-b08-jre-alpine
-eclipse-temurin:8u392-b08-jre-centos7
+#nginx:1.27.0
+#redis:latest
+#mysql:8.0
+#minio/minio:latest
+#openjdk:8-jdk-alpine
+#linuxserver/libreoffice
+#libreoffice/online:master-nogui
+#eclipse-temurin:8u392-b08-jre-alpine
+#eclipse-temurin:8u392-b08-jre-centos7
+eclipse-temurin:21.0.4_7-jre
 
 #
 #支持私库
