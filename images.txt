@@ -7,8 +7,8 @@
 #libreoffice/online:master-nogui
 #eclipse-temurin:8u392-b08-jre-alpine
 #eclipse-temurin:8u392-b08-jre-centos7
-eclipse-temurin:21.0.4_7-jre
-
+#eclipse-temurin:21.0.4_7-jre
+keking/kkfileview-jdk:latest
 #
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
