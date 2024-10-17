@@ -10,7 +10,9 @@
 #eclipse-temurin:21.0.4_7-jre
 #keking/kkfileview-jdk:latest
 #ubuntu:20.04
-node:current-alpine
+#node:current-alpine
+gplane/pnpm:node20
+
 #
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
