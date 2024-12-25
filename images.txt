@@ -22,3 +22,4 @@ gplane/pnpm:node20
 
 #nginx:1.2.0-alpine
 #nginx:1.8-alpine
+emqx/emqx:5.8.3
