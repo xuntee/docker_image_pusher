@@ -11,7 +11,8 @@
 #keking/kkfileview-jdk:latest
 #ubuntu:20.04
 #node:current-alpine
-gplane/pnpm:node20
+#gplane/pnpm:node20
+emqx/emqx-enterprise:5.10.0
 
 #
 #支持私库
@@ -22,4 +23,4 @@ gplane/pnpm:node20
 
 #nginx:1.2.0-alpine
 #nginx:1.8-alpine
-emqx/emqx:5.8.3
+emqx/emqx:5.10.0
