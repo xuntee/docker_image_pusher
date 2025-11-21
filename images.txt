@@ -23,4 +23,5 @@ emqx/emqx-enterprise:5.10.0
 
 #nginx:1.2.0-alpine
 #nginx:1.8-alpine
-emqx/emqx:5.10.0
+#emqx/emqx:5.10.0
+paddlecloud/paddlespeech:develop-cpu-latest
