@@ -25,4 +25,12 @@ emqx/emqx-enterprise:5.10.0
 #nginx:1.8-alpine
 #emqx/emqx:5.10.0
 #paddlecloud/paddlespeech:develop-cpu-latest
-node:22-alpine
+#node:22-alpine
+redis:7.0.0
+mysql:5.7
+emqx:5.8.4
+openjdk:8-jre
+nginx:stable
+kerwincui/zlmedia-record:2.0
+tdengine/tdengine:3.3.5.8
+minio/minio:RELEASE.2025-09-07T16-13-09Z
